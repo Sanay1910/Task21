@@ -39,4 +39,3 @@ http://localhost:8080/character
   "classId" : "4"
 }
 
-![RPG](/RPG.png)
