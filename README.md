@@ -39,4 +39,4 @@ http://localhost:8080/character
   "classId" : "4"
 }
 
-[alt pic](RPG.png)
+![RPG](/RPG.png)
