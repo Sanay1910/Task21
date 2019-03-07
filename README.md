@@ -1,5 +1,7 @@
 # Task21
+
 GET samples
+
 http://localhost:8080/users
 to get all usernames
 
